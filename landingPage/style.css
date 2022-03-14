@@ -1,0 +1,48 @@
+#logo {
+    margin: auto;
+    width: 10%;
+    height: 10%;
+}
+
+body {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3%;
+}
+
+#contentBox {
+    margin: auto;
+    width: 60%;
+    padding: 3%;
+    border-radius: 6px;
+    border: 1px solid rgb(218, 214, 214);
+    text-decoration: center;
+    line-height: 1.8;
+    background-color: #5ba8ff;
+}
+
+#insta {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* padding: 3%; */
+    padding-top: 2%;
+}
+
+#handle {
+    /* display: block; */
+    margin-left: 45%;
+    text-decoration: none !important;
+}
+
+/* #credit {
+    font-size: x-small !important;
+    color: rgb(189, 184, 184) !important;
+    display: flex;
+    text-decoration: none;
+} */
